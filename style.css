@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+
+body {
+  background-image: url('img/background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Tilt Warp', sans-serif, cursive;
+  color: white;
+}
